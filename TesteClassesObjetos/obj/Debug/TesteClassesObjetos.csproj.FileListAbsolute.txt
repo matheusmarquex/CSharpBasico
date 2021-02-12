@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\bin\Debug\TesteClassesObjetos.exe.config
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\bin\Debug\TesteClassesObjetos.exe
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\bin\Debug\TesteClassesObjetos.pdb
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\obj\Debug\TesteClassesObjetos.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\obj\Debug\TesteClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\obj\Debug\TesteClassesObjetos.exe
+C:\Users\Matheus\source\repos\TesteClassesObjetos\TesteClassesObjetos\obj\Debug\TesteClassesObjetos.pdb
